@@ -1,0 +1,5 @@
+# Debug Files
+SpigotLauncher.toml
+
+# JAR files used for testing
+*.jar
